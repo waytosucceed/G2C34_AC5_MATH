@@ -1,0 +1,93 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "In the painting, Sophie and Claire spotted a shape. Count and tell number of sides.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": 2,
+        "secondImg": "./images/20.jpg",
+        "explanation": "The given shape has 4 sides."
+    },
+    {
+        "questionNo": "Q2",
+        "question": "They noticed a colorful part of the painting. How many sides does that part have?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correct": 2,
+        "secondImg": "./images/21.jpg",
+        "explanation": "The given shape has three sides."
+    },
+    {
+        "questionNo": "Q3",
+        "question": "One area in the painting had the below given shape. How many vertices does the shape have?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "correct": 0,
+        "secondImg": "./images/22.jpg",
+        "explanation": "Vertices are the points where two sides meet. The given shape has 4 vertices."
+    },
+    {
+        "questionNo": "Q4",
+        "question": "How many corners does the below given shape of the painting have?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "3"
+        ],
+        "correct": 1,
+        "secondImg": "./images/23.jpg",
+        "explanation": "Corner is where two sides meet. The given shape has 5 corners."
+    },
+    {
+        "questionNo": "Q5",
+        "question": "While looking at the painting, Sophie pointed out a shape. Count how many sides the shape has?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct": 0,
+        "secondImg": "./images/24.jpg",
+        "explanation": "The given shape has 4 sides."
+    },
+    {
+        "questionNo": "Q6",
+        "question": "They found a bright piece in the painting. How many sides does that piece have?",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "correct": 3,
+        "secondImg": "./images/25.jpg",
+        "explanation": "The given shape has 5 sides."
+    },
+    {
+        "questionNo": "Q7",
+        "question": "Sophie noticed a fun shape in the painting. Count how many sides are there in the shape?",
+        "options": [
+            "6",
+            "4",
+            "2",
+            "3"
+        ],
+        "correct": 0,
+        "secondImg": "./images/26.jpg",
+        "explanation": "The given shape has 6 sides."
+    }
+]

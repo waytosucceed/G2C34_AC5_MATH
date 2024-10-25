@@ -1,0 +1,55 @@
+[
+  {
+    "questionNo": "",
+    "question": "Claire pointed to a colorful area with 3 shapes. Choose the shape which has 3 sides.",
+    
+    "optionsImages": [
+      "./images/27.png",
+      "./images/28.png",
+      "./images/29.png"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": " Sophie discovered a pattern with a shape that has 6 sides. What shape has 6 sides?",
+    
+    "optionsImages": [
+      "./images/30.png",
+      "./images/31.png",
+      "./images/32.png"
+    ],
+    "correct":1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "questionNo": "",
+    "question": "Which shape in the painting has 4 vertices?",
+    
+    "optionsImages": [
+      "./images/33.png",
+      "./images/34.png",
+      "./images/35.png"
+    ],
+    "correct": 1,
+    "optionsAudio": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  }
+      
+  ]
+  
